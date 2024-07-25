@@ -22,3 +22,7 @@ O projeto possui a seguinte estrutura de pastas:
 ## Autor
 
 Este projeto foi desenvolvido por Lucas Santos Silva, profissional com formação técnica em Informática (Suporte) e Informática para Internet.
+
+## Licença
+
+Este projeto está licenciado sob a [Licença MIT](./LICENSE).
